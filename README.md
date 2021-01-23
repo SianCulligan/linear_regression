@@ -1,3 +1,3 @@
 # Linear Regression
 
-(Open PR)[]
+[Open PR](https://github.com/SianCulligan/linear_regression/pull/1)
